@@ -1,0 +1,6 @@
+[submodule "repos/odin-recipes"]
+	path = repos/odin-recipes
+	url = https://github.com/simoncodes-dev/odin-recipes.git
+[submodule "repos/css-exercises"]
+	path = repos/css-exercises
+	url = https://github.com/simoncodes-dev/odin-css-foundations
